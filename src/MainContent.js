@@ -4,7 +4,7 @@ export default function MainContent() {
   return (
     <div className="MainContent">
       <h1>Reasons I'm excited to learn React</h1>
-      <ul>
+      <ul className="ul">
         <li>
           It's a popular library, so I'll be able to fit in with the cool kids!
         </li>
