@@ -46,6 +46,10 @@ body{
   font-family: monospace;
   font-size: 15px;
   text-shadow: 3px;
+  
+}
+.nav-items:hover {
+  
 }
 h1{
   text-align: center;
@@ -79,5 +83,12 @@ h1{
    font-family: monospace;
    padding: 5px;
    margin: 15px;
+   transition: 0.2s;
+  }
+ 
+  button:hover{
+    background-color: white;
+    color: #35b0c9;
   }
 
+ 

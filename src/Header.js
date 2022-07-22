@@ -6,9 +6,9 @@ export default function Header() {
       <nav className="nav">
         <img src="./logo192.png" className="nav-logo" />
         <ul className="nav-items">
-          <li>Pricing</li>
-          <li>About</li>
-          <li>Contact</li>
+          <button type="button"><li>Pricing</li></button>
+          <button type="button"><li>About</li></button>
+          <button type="button"><li>Contact</li></button>
         </ul>
       </nav>
     </header>
