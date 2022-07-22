@@ -1,7 +1,6 @@
 body{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  
-}
+  }
 
 .nav {
   display: flex;
@@ -48,13 +47,8 @@ body{
   font-size: 15px;
   text-shadow: 3px;
 }
-footer{
-  background-color: #35b0c9;
-  border-radius: 3px;
-  color: black;
+h1{
   text-align: center;
-  padding: 15px; 
-  margin: 25px
 }
 
 .MainContent{
@@ -64,8 +58,26 @@ footer{
     margin: 25px;  
     text-align: justify;
   }
-  h1{
-    text-align: center;
-  }
  
+  footer{
+    background-color: #35b0c9;
+    border-radius: 3px;
+    color: black;
+    text-align: center;
+    padding: 15px; 
+    margin: 25px; 
+  }
+  button{
+   border-radius: 3px;
+   color:aliceblue;
+   background-color: #35b0c9;
+   border-style:solid; 
+   border-bottom:none;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   font-family: monospace;
+   padding: 5px;
+   margin: 15px;
+  }
 
