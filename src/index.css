@@ -40,13 +40,11 @@ body{
   list-style: none;
   display: flex;
 }
-
 .nav-items > li {
   padding: 10px;
   font-family: monospace;
   font-size: 15px;
-  text-shadow: 3px;
-  
+  text-shadow: 3px;  
 }
 
 h1{
